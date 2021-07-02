@@ -12,7 +12,7 @@
 Shoppers rely on Home Depot’s product authority to find and buy the latest products and to get timely solutions to their home improvement needs. From installing a new ceiling fan to remodeling an entire kitchen, with the click of a mouse or tap of the screen, customers expect the correct results to their queries – quickly. Speed, accuracy and delivering a frictionless customer experience are essential.,
 </p>
 
-<h3>Task Description</h3>,
+<h3>Task Description</h3>
 <p>
 Home Depot is asking to help them improve their customers' shopping experience by developing a model that can accurately predict the relevance of search results.,
 
