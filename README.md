@@ -19,4 +19,4 @@ Home Depot is asking to help them improve their customers' shopping experience b
 Search relevancy is an implicit measure Home Depot uses to gauge how quickly they can get customers to the right products. Currently, human raters evaluate the impact of potential changes to their search algorithms, which is a slow and subjective process. By removing or minimizing human input in search relevance evaluation, Home Depot hopes to increase the number of iterations their team can perform on the current search algorithms.,
 </p>
 
-<a href=\https://www.kaggle.com/c/home-depot-product-search-relevance/data\>Home Depot Product Search Relevance dataset link</a>
+[Home Depot Product Search Relevance dataset link] (https://www.kaggle.com/c/home-depot-product-search-relevance/data)
