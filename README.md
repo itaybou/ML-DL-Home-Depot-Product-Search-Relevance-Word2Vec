@@ -4,7 +4,6 @@
  <div style=text-align: center;>
     <h1>Deep Learning Course - Assignment 3</h1>
     <h2>Home Depot Product Search Relevance</h2>
-    <h3>Submitted by: Itay Bouganim and Ido Rom</h3>
 </div>
     
 <h3>Problem Statement</h3>
